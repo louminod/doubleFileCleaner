@@ -18,10 +18,7 @@ public class Main {
         List<String> newExtensions = new ArrayList<>();
         List<String> checksums = new ArrayList<>();
 
-        String path = "/Volumes/Disque Dur/doublon/";
-        // String path = "/Users/lmm/Desktop/imageCleaner/";
-        // String path = "/Volumes/Disque Dur/";
-
+        String path = "/Volumes/usb/";
 
         try {
 
